@@ -118,12 +118,7 @@ form .member {
     text-align: center;
 }
 
-form .member a {
-    text-decoration: none;
-    color: black;
-    font-size: 1.2rem;
-}
-
-form .member a span {
+form .member span a {
     color: #16A085;
+    text-decoration: none;
 }
