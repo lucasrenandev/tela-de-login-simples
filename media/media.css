@@ -1,0 +1,11 @@
+
+@media (max-width: 350px) {
+
+    form .row i {
+        display: none;
+    }
+
+    form .row input {
+        padding: 15px;
+    }
+}
